@@ -2,3 +2,4 @@
 // 1 : queue
 // 1 : bfs
 // 1 : bracket sequence
+// 1 : number theory (prime numbers)
